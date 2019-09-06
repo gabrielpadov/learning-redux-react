@@ -9,6 +9,8 @@ objetivo: entender como implementar o redux e seus conceitos
 
 > "O Redux é uma implementação que foi criada para solucionar o problema de compartilhamento de estados entre componentes, tornando-o unidirecional. Simplifica a evolução de estados de uma aplicação quando há múltiplos estados para controlar e muitos componentes que precisam atualizar ou se inscrever nessa evolução, tirando a responsabilidade de cada componente de guardar o estado e passando para uma centralizada e única Store."
 
+![changed](https://user-images.githubusercontent.com/33489999/64462007-630e3e00-d0d5-11e9-9d51-dbe8b28f6ae7.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
